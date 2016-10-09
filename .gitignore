@@ -1,0 +1,3 @@
+/vendor/
+artifacts/coverage
+artifacts/clover.xml
