@@ -1,0 +1,11 @@
+{
+  "name": "hirak-allpairs",
+  "scripts": {
+    "test": "vendor/bin/phpunit --colors=always",
+    "start": "gulp start"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.17.1",
+    "gulp": "^3.9.1"
+  }
+}
